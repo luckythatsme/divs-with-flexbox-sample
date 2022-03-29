@@ -98,13 +98,13 @@ textarea {
 
 
 html {
-  background-color: #fff;
+  background-color: #987e7c;
   height: 100%;
   width: 100%;
 }
 
 body {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     padding: 2em;
     font-size: 1.25em;
     height: 100%;
@@ -124,11 +124,14 @@ body {
   justify-content: center;
   align-items:center;
   color: #fff;
-  line-height: 1.5em;
-  font-size: 1.6em;
-  background-color: #f16059;
-  width: 30%;
+  line-height: 1.20em;
+  font-size: 1.4em;
+  background-color: #987e7c;
+  width: 25%;
   height: 300px;
+  padding-right: 30px;
+  padding-left: 80px;
+  border-style: dotted;
 }
 
 
